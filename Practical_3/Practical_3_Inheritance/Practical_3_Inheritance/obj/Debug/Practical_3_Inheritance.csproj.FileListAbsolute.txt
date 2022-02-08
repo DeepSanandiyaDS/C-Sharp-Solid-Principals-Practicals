@@ -1,0 +1,7 @@
+C:\Users\deepsanandiya\source\repos\Practical_3_Inheritance\Practical_3_Inheritance\bin\Debug\Practical_3_Inheritance.exe.config
+C:\Users\deepsanandiya\source\repos\Practical_3_Inheritance\Practical_3_Inheritance\bin\Debug\Practical_3_Inheritance.exe
+C:\Users\deepsanandiya\source\repos\Practical_3_Inheritance\Practical_3_Inheritance\bin\Debug\Practical_3_Inheritance.pdb
+C:\Users\deepsanandiya\source\repos\Practical_3_Inheritance\Practical_3_Inheritance\obj\Debug\Practical_3_Inheritance.csproj.AssemblyReference.cache
+C:\Users\deepsanandiya\source\repos\Practical_3_Inheritance\Practical_3_Inheritance\obj\Debug\Practical_3_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\deepsanandiya\source\repos\Practical_3_Inheritance\Practical_3_Inheritance\obj\Debug\Practical_3_Inheritance.exe
+C:\Users\deepsanandiya\source\repos\Practical_3_Inheritance\Practical_3_Inheritance\obj\Debug\Practical_3_Inheritance.pdb

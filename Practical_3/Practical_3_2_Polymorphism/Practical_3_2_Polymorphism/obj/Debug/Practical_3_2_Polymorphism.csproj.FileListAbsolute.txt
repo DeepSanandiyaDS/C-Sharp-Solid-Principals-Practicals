@@ -1,0 +1,6 @@
+C:\Users\deepsanandiya\source\repos\Practical_3_2_Polymorphism\Practical_3_2_Polymorphism\bin\Debug\Practical_3_2_Polymorphism.exe.config
+C:\Users\deepsanandiya\source\repos\Practical_3_2_Polymorphism\Practical_3_2_Polymorphism\bin\Debug\Practical_3_2_Polymorphism.exe
+C:\Users\deepsanandiya\source\repos\Practical_3_2_Polymorphism\Practical_3_2_Polymorphism\bin\Debug\Practical_3_2_Polymorphism.pdb
+C:\Users\deepsanandiya\source\repos\Practical_3_2_Polymorphism\Practical_3_2_Polymorphism\obj\Debug\Practical_3_2_Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\deepsanandiya\source\repos\Practical_3_2_Polymorphism\Practical_3_2_Polymorphism\obj\Debug\Practical_3_2_Polymorphism.exe
+C:\Users\deepsanandiya\source\repos\Practical_3_2_Polymorphism\Practical_3_2_Polymorphism\obj\Debug\Practical_3_2_Polymorphism.pdb

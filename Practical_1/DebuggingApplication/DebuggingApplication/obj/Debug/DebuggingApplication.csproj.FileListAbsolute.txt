@@ -1,0 +1,7 @@
+C:\Users\deepsanandiya\Documents\Deep_Sanandiya\ASP_NET\DebuggingApplication\DebuggingApplication\obj\Debug\DebuggingApplication.csproj.AssemblyReference.cache
+C:\Users\deepsanandiya\Documents\Deep_Sanandiya\ASP_NET\DebuggingApplication\DebuggingApplication\obj\Debug\DebuggingApplication.csproj.CoreCompileInputs.cache
+C:\Users\deepsanandiya\Documents\Deep_Sanandiya\ASP_NET\DebuggingApplication\DebuggingApplication\bin\Debug\DebuggingApplication.exe.config
+C:\Users\deepsanandiya\Documents\Deep_Sanandiya\ASP_NET\DebuggingApplication\DebuggingApplication\bin\Debug\DebuggingApplication.exe
+C:\Users\deepsanandiya\Documents\Deep_Sanandiya\ASP_NET\DebuggingApplication\DebuggingApplication\bin\Debug\DebuggingApplication.pdb
+C:\Users\deepsanandiya\Documents\Deep_Sanandiya\ASP_NET\DebuggingApplication\DebuggingApplication\obj\Debug\DebuggingApplication.exe
+C:\Users\deepsanandiya\Documents\Deep_Sanandiya\ASP_NET\DebuggingApplication\DebuggingApplication\obj\Debug\DebuggingApplication.pdb

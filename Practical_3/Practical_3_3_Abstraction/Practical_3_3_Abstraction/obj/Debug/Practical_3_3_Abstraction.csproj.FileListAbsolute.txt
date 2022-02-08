@@ -1,0 +1,7 @@
+C:\Users\deepsanandiya\source\repos\Practical_3_3_Abstraction\Practical_3_3_Abstraction\bin\Debug\Practical_3_3_Abstraction.exe.config
+C:\Users\deepsanandiya\source\repos\Practical_3_3_Abstraction\Practical_3_3_Abstraction\bin\Debug\Practical_3_3_Abstraction.exe
+C:\Users\deepsanandiya\source\repos\Practical_3_3_Abstraction\Practical_3_3_Abstraction\bin\Debug\Practical_3_3_Abstraction.pdb
+C:\Users\deepsanandiya\source\repos\Practical_3_3_Abstraction\Practical_3_3_Abstraction\obj\Debug\Practical_3_3_Abstraction.csproj.AssemblyReference.cache
+C:\Users\deepsanandiya\source\repos\Practical_3_3_Abstraction\Practical_3_3_Abstraction\obj\Debug\Practical_3_3_Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\deepsanandiya\source\repos\Practical_3_3_Abstraction\Practical_3_3_Abstraction\obj\Debug\Practical_3_3_Abstraction.exe
+C:\Users\deepsanandiya\source\repos\Practical_3_3_Abstraction\Practical_3_3_Abstraction\obj\Debug\Practical_3_3_Abstraction.pdb
